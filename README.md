@@ -1,3 +1,3 @@
 # myweb
 
-This is fot practice purpose.
+This is for practice purpose.
