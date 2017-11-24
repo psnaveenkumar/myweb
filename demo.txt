@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 change 1 
 change 2
 change again
+=======
+change 1 what wee committed
+>>>>>>> refs/remotes/origin/master
